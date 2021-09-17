@@ -5,4 +5,5 @@ module de.noisruker.tablefilemanager {
     requires org.apache.poi.ooxml;
 
     exports de.noisruker.filemanager;
+    exports de.noisruker.filemanager.utils;
 }
